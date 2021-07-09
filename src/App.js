@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>Zelda encyclopédia</h1>
       <h2>Author: Julien Perrin</h2>
+      Content
     </div>
   );
 }
