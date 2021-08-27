@@ -8,6 +8,7 @@ const useStyles = makeStyles(() => ({
     fontFamily: "Open Sans, sans-serif",
     size: "18px",
     marginLeft: "38px",
+    display: "inline-flex"
   },
   navigationButton: {
     color: 'white',

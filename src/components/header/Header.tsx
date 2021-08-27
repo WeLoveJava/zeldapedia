@@ -10,6 +10,7 @@ const useStyles = makeStyles(() => ({
   },
   header: {
     backgroundColor: 'black',
+    height: "80px"
   },
 }));
 
@@ -18,13 +19,11 @@ export default function Header() {
   const {header, navigation} = useStyles();
 
   return (
-      <header>
-        <AppBar className={header}>
-          <Toolbar className={navigation}>
-            <HeaderLogo/>
-            <NavigationBar/>
-          </Toolbar>
-        </AppBar>
-      </header>
+      <AppBar className={header}>
+        <Toolbar className={navigation}>
+          <HeaderLogo/>
+          <NavigationBar/>
+        </Toolbar>
+      </AppBar>
   );
 }
