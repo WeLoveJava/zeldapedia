@@ -1,0 +1,72 @@
+$logoColor: #027899;
+$navigationColor: #18b9e6;
+$fontFamilyTrifont: "trifont", serif;
+$fontFamilyTriforce: "triforce", serif;
+$fontFamilyBoTw: "botwfont", serif;
+
+header nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 5% 0 5%;
+
+  h1 {
+    margin: 0;
+
+    a {
+      margin: 0 15px 0 0;
+      align-items: center;
+      color: $logoColor;
+      font-weight: normal;
+      text-decoration: none;
+
+      &.headerLogo {
+        font-family: $fontFamilyTrifont;
+        font-size: 40px;
+      }
+
+      &.logoText {
+        font-family: $fontFamilyBoTw;
+        font-size: 60px;
+      }
+    }
+  }
+
+  div {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    font-family: $fontFamilyBoTw;
+    font-size: 30px;
+
+    a {
+      margin: 0 15px 0 0;
+      color: $logoColor;
+      transition: color 0.5s;
+      text-decoration: none;
+
+      &:hover {
+        color: $navigationColor;
+      }
+
+      &:after {
+        background: none repeat scroll 0 0 transparent;
+        bottom: 0;
+        content: "";
+        display: block;
+        height: 2px;
+        left: 50%;
+        position: relative;
+        background: $navigationColor;
+        transition: width 0.3s ease 0s, left 0.3s ease 0s;
+        width: 0;
+      }
+      &:hover:after {
+        width: 100%;
+        left: 0;
+      }
+    }
+  }
+}
+

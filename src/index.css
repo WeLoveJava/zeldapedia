@@ -1,3 +1,18 @@
+@font-face {
+  font-family: triforce;
+  src: url("font/triforce.ttf");
+}
+
+@font-face {
+  font-family: trifont;
+  src: url("font/trifont.ttf");
+}
+
+@font-face {
+  font-family: botwfont;
+  src: url("font/breath_of_the_wild.otf");
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
