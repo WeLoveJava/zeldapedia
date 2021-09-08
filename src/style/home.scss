@@ -47,17 +47,4 @@ $fontFamilyBoTw: "botwfont", serif;
 
   }
 
-  .home-image {
-    img {
-      -webkit-filter: grayscale(100%);
-      -moz-filter: grayscale(100%);
-      filter: grayscale(100%);
-      transition: filter 1s ease;
-
-      &:hover {
-        filter: grayscale(0%);
-      }
-    }
-  }
-
 }
