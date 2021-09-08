@@ -1,5 +1,6 @@
-$logoColor: #948e7e;
-$navigationColor: #e0c039;
+$logoColor: #e0c039;
+$logoTextColor: #B99F65;
+$navigationColor: #B99F65;
 $fontFamilyTrifont: "trifont", serif;
 $fontFamilyTriforce: "triforce", serif;
 $fontFamilyBoTw: "botwfont", serif;
@@ -17,13 +18,14 @@ header nav {
     a {
       margin: 0 15px 0 0;
       align-items: center;
-      color: $logoColor;
+      color: $logoTextColor;
       font-weight: normal;
       text-decoration: none;
 
       &.headerLogo {
         font-family: $fontFamilyTrifont;
         font-size: 30px;
+        color: $logoColor;
       }
 
       &.logoText {

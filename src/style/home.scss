@@ -1,4 +1,4 @@
-$titleColor: #948e7e;
+$titleColor: #B99F65;
 $fontFamilyBoTw: "botwfont", serif;
 
 .presentation {
@@ -7,6 +7,7 @@ $fontFamilyBoTw: "botwfont", serif;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  font-family: "Medula One", sans-serif;
 
   .home-text {
     width: 100%;
@@ -22,16 +23,18 @@ $fontFamilyBoTw: "botwfont", serif;
 
     p {
       font-weight: 300;
+      font-size: 35px;
     }
 
     button {
       margin-top: 20px;
       padding: 15px 20px;
-      font-size: 15px;
+      font-size: 30px;
       border-radius: 10px;
       border: none;
       outline: none;
       cursor: pointer;
+      font-family: "Medula One", sans-serif;
     }
   }
 

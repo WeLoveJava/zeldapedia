@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Medula One";
+  src: url(https://fonts.gstatic.com/s/medulaone/v7/LoO8LDXpiOs8e6qJRLl2SQzyDMXhdD8sAj6OAJTFsBI.woff2);
+}
+
 .App-logo {
 pointer-events: none;
   height: 40vmin;
