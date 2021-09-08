@@ -15,7 +15,7 @@ export default function HomePage() {
           <button>Découvrir l'histoire</button>
         </div>
         <div className={"home-image"}>
-          <img src={linkImage}/>
+          <img src={linkImage} alt={"Link onto his horse."}/>
         </div>
       </section>
   );
