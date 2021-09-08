@@ -44,7 +44,7 @@ header nav {
 
     a {
       margin: 0 15px 0 0;
-      color: $navigationColor;
+      color: #0169A0;
       transition: color 0.5s;
       text-decoration: none;
 
@@ -53,15 +53,14 @@ header nav {
       }
 
       &:after {
-        background: none repeat scroll 0 0 transparent;
+        background: none repeat scroll 0 0 $navigationColor;
         bottom: 0;
         content: "";
         display: block;
         height: 2px;
         left: 50%;
         position: relative;
-        background: $logoColor;
-        transition: width 0.3s ease 0s, left 0.3s ease 0s;
+        transition: width 0.5s ease 0s, left 0.5s ease 0s;
         width: 0;
       }
       &:hover:after {

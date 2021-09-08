@@ -19,6 +19,7 @@ $fontFamilyBoTw: "botwfont", serif;
       width: 80%;
       font-family: $fontFamilyBoTw;
       color: $titleColor;
+      font-weight: normal;
     }
 
     p {
@@ -31,14 +32,32 @@ $fontFamilyBoTw: "botwfont", serif;
       padding: 15px 20px;
       font-size: 30px;
       border-radius: 10px;
-      border: none;
-      outline: none;
+      border: 1px #0169A0 solid;
       cursor: pointer;
       font-family: "Medula One", sans-serif;
+      color: #0169A0;
+      background-color: white;
+      transition: color 0.7s ease 0s, background-color 0.7s ease 0s;
+
+      &:hover {
+        background-color: #0169A0;
+        color: white;
+      }
     }
+
   }
 
   .home-image {
-    width: 100%;
+    img {
+      -webkit-filter: grayscale(100%);
+      -moz-filter: grayscale(100%);
+      filter: grayscale(100%);
+      transition: filter 1s ease;
+
+      &:hover {
+        filter: grayscale(0%);
+      }
+    }
   }
+
 }
