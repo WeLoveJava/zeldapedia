@@ -4,11 +4,11 @@ export default function NavigationBar() {
 
   return (
       <div className={"rightMenu"}>
-        <a href={"/"}>Accueil</a>
-        <a href={"/"}>Personnages</a>
-        <a href={"/"}>Ennemis</a>
-        <a href={"/"}>Objets</a>
-        <a href={"/"}>Lieux</a>
+        <a href={"#"}>accueil</a>
+        <a href={"#"}>personnages</a>
+        <a href={"#"}>ennemis</a>
+        <a href={"#"}>objets</a>
+        <a href={"#"}>lieux</a>
       </div>
   );
 }

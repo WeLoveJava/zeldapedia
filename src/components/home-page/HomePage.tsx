@@ -1,21 +1,25 @@
 import React from 'react';
-import {makeStyles} from "@material-ui/core";
-
-const useStyles = makeStyles(() => ({
-  home: {
-    paddingTop: "80px",
-  },
-}));
+import '../../style/home.scss';
+import linkImage from '../../images/link-home.png';
 
 export default function HomePage() {
 
-  const {home} = useStyles();
-
   return (
-      <div className={home}>
-        <h1>Zelda encyclopédia</h1>
-        <h2>Author: Julien Perrin</h2>
-        Content
-      </div>
+      <section className={"presentation first"}>
+        <div className={"home-text"}>
+          <h1>Breath of the Wild l'encyclopedie</h1>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+            Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi.
+            Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+            Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim.
+            Pellentesque congue. Ut in risus volutpat libero pharetra tempor.
+            Cras vestibulum bibendum augue.
+            Praesent egestas leo in pede. Praesent blandit odio eu enim.</p>
+          <button>Découvrir l'histoire</button>
+        </div>
+        <div className={"home-image"}>
+          <img src={linkImage}/>
+        </div>
+      </section>
   );
 }
