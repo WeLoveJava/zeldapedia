@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/zeldapedia/static/css/main.77582974.chunk.css",
-    "main.js": "/zeldapedia/static/js/main.05b85fdb.chunk.js",
-    "main.js.map": "/zeldapedia/static/js/main.05b85fdb.chunk.js.map",
+    "main.js": "/zeldapedia/static/js/main.5edd8861.chunk.js",
+    "main.js.map": "/zeldapedia/static/js/main.5edd8861.chunk.js.map",
     "runtime-main.js": "/zeldapedia/static/js/runtime-main.fb4e9581.js",
     "runtime-main.js.map": "/zeldapedia/static/js/runtime-main.fb4e9581.js.map",
     "static/js/2.9f1629fe.chunk.js": "/zeldapedia/static/js/2.9f1629fe.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.fb4e9581.js",
     "static/js/2.9f1629fe.chunk.js",
     "static/css/main.77582974.chunk.css",
-    "static/js/main.05b85fdb.chunk.js"
+    "static/js/main.5edd8861.chunk.js"
   ]
 }
