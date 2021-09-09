@@ -4,10 +4,10 @@ export default function NavigationBar() {
 
   return (
       <div className={"rightMenu"}>
-        <a href={"/legend"}>legende</a>
-        <a href={"/characters"}>personnages</a>
-        <a href={"/ennemies"}>ennemis</a>
-        <a href={"/objects"}>objets</a>
+        <a href={"/zeldapedia/legend"}>legende</a>
+        <a href={"/zeldapedia/characters"}>personnages</a>
+        <a href={"/zeldapedia/ennemies"}>ennemis</a>
+        <a href={"/zeldapedia/objects"}>objets</a>
         <a href={"/zeldapedia"}>lieux</a>
       </div>
   );
