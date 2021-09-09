@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/zeldapedia/home/static/css/main.93a5d48a.chunk.css",
-    "main.js": "/zeldapedia/home/static/js/main.d2e49446.chunk.js",
-    "main.js.map": "/zeldapedia/home/static/js/main.d2e49446.chunk.js.map",
-    "runtime-main.js": "/zeldapedia/home/static/js/runtime-main.1d96284a.js",
-    "runtime-main.js.map": "/zeldapedia/home/static/js/runtime-main.1d96284a.js.map",
-    "static/js/2.9f1629fe.chunk.js": "/zeldapedia/home/static/js/2.9f1629fe.chunk.js",
-    "static/js/2.9f1629fe.chunk.js.map": "/zeldapedia/home/static/js/2.9f1629fe.chunk.js.map",
-    "static/js/3.28a151f2.chunk.js": "/zeldapedia/home/static/js/3.28a151f2.chunk.js",
-    "static/js/3.28a151f2.chunk.js.map": "/zeldapedia/home/static/js/3.28a151f2.chunk.js.map",
-    "index.html": "/zeldapedia/home/index.html",
-    "static/css/main.93a5d48a.chunk.css.map": "/zeldapedia/home/static/css/main.93a5d48a.chunk.css.map",
-    "static/js/2.9f1629fe.chunk.js.LICENSE.txt": "/zeldapedia/home/static/js/2.9f1629fe.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/zeldapedia/home/static/media/triforce.d9304d4b.ttf",
-    "static/media/heroes-section.scss": "/zeldapedia/home/static/media/zelda.d1ba126a.png",
-    "static/media/link-home.e48afdd7.png": "/zeldapedia/home/static/media/link-home.e48afdd7.png"
+    "main.css": "/zeldapedia/static/css/main.77582974.chunk.css",
+    "main.js": "/zeldapedia/static/js/main.9d713be5.chunk.js",
+    "main.js.map": "/zeldapedia/static/js/main.9d713be5.chunk.js.map",
+    "runtime-main.js": "/zeldapedia/static/js/runtime-main.fb4e9581.js",
+    "runtime-main.js.map": "/zeldapedia/static/js/runtime-main.fb4e9581.js.map",
+    "static/js/2.9f1629fe.chunk.js": "/zeldapedia/static/js/2.9f1629fe.chunk.js",
+    "static/js/2.9f1629fe.chunk.js.map": "/zeldapedia/static/js/2.9f1629fe.chunk.js.map",
+    "static/js/3.28a151f2.chunk.js": "/zeldapedia/static/js/3.28a151f2.chunk.js",
+    "static/js/3.28a151f2.chunk.js.map": "/zeldapedia/static/js/3.28a151f2.chunk.js.map",
+    "index.html": "/zeldapedia/index.html",
+    "static/css/main.77582974.chunk.css.map": "/zeldapedia/static/css/main.77582974.chunk.css.map",
+    "static/js/2.9f1629fe.chunk.js.LICENSE.txt": "/zeldapedia/static/js/2.9f1629fe.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/zeldapedia/static/media/triforce.d9304d4b.ttf",
+    "static/media/heroes-section.scss": "/zeldapedia/static/media/zelda.d1ba126a.png",
+    "static/media/link-home.e48afdd7.png": "/zeldapedia/static/media/link-home.e48afdd7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d96284a.js",
+    "static/js/runtime-main.fb4e9581.js",
     "static/js/2.9f1629fe.chunk.js",
-    "static/css/main.93a5d48a.chunk.css",
-    "static/js/main.d2e49446.chunk.js"
+    "static/css/main.77582974.chunk.css",
+    "static/js/main.9d713be5.chunk.js"
   ]
 }
