@@ -14,19 +14,19 @@ function App() {
         <div className="App">
           <Header/>
           <Switch>
-            <Route path="/zeldapedia/home">
+            <Route exact path="/zeldapedia">
               <HomePage/>
             </Route>
-            <Route path="/zeldapedia/legend">
+            <Route exact path="/zeldapedia/legend">
               <Legend/>
             </Route>
-            <Route path="/zeldapedia/characters">
+            <Route exact path="/zeldapedia/characters">
               <Characters/>
             </Route>
-            <Route path="/zeldapedia/ennemies">
+            <Route exact path="/zeldapedia/ennemies">
               <Ennemies/>
             </Route>
-            <Route path="/zeldapedia/objects">
+            <Route exact path="/zeldapedia/objects">
               <Objects/>
             </Route>
           </Switch>
