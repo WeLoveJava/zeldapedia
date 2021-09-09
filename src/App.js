@@ -6,6 +6,7 @@ import Characters from "./components/character-page/Characters";
 import Ennemies from "./components/ennemy-pages/Ennemies";
 import Objects from "./components/object-page/Objects";
 import Legend from "./components/legend-page/Legend";
+import Footer from "./components/footer/Footer";
 
 function App() {
   return (
@@ -29,6 +30,7 @@ function App() {
               <Objects/>
             </Route>
           </Switch>
+          <Footer/>
         </div>
       </Router>
   );

@@ -11,7 +11,7 @@ export default function HeroesSection() {
             <HeroSection title={"Zelda"} description={"Princesse du royaume d'Hyrule"} link={"/heroes/zelda"}/>
             <HeroSection title={"Mipha"} description={"Prodige Zora"} link={"/heroes/mipha"}/>
             <HeroSection title={"Urbosa"} description={"Prodige Gerudo"} link={"/heroes/urbosa"}/>
-            <HeroSection title={"Urbosa"} description={"Prodige Goron"} link={"/heroes/urbosa"}/>
+            <HeroSection title={"Daruk"} description={"Prodige Goron"} link={"/heroes/daruk"}/>
             <HeroSection title={"Revali"} description={"Prodige Piaf"} link={"/heroes/revali"}/>
           </ul>
         </div>
