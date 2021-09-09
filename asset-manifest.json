@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/zeldapedia/static/css/main.96f7634e.chunk.css",
-    "main.js": "/zeldapedia/static/js/main.d6720678.chunk.js",
-    "main.js.map": "/zeldapedia/static/js/main.d6720678.chunk.js.map",
-    "runtime-main.js": "/zeldapedia/static/js/runtime-main.489f0f55.js",
-    "runtime-main.js.map": "/zeldapedia/static/js/runtime-main.489f0f55.js.map",
-    "static/js/2.597429ea.chunk.js": "/zeldapedia/static/js/2.597429ea.chunk.js",
-    "static/js/2.597429ea.chunk.js.map": "/zeldapedia/static/js/2.597429ea.chunk.js.map",
-    "static/js/3.ce4d33e9.chunk.js": "/zeldapedia/static/js/3.ce4d33e9.chunk.js",
-    "static/js/3.ce4d33e9.chunk.js.map": "/zeldapedia/static/js/3.ce4d33e9.chunk.js.map",
+    "main.css": "/zeldapedia/static/css/main.77582974.chunk.css",
+    "main.js": "/zeldapedia/static/js/main.05b85fdb.chunk.js",
+    "main.js.map": "/zeldapedia/static/js/main.05b85fdb.chunk.js.map",
+    "runtime-main.js": "/zeldapedia/static/js/runtime-main.fb4e9581.js",
+    "runtime-main.js.map": "/zeldapedia/static/js/runtime-main.fb4e9581.js.map",
+    "static/js/2.9f1629fe.chunk.js": "/zeldapedia/static/js/2.9f1629fe.chunk.js",
+    "static/js/2.9f1629fe.chunk.js.map": "/zeldapedia/static/js/2.9f1629fe.chunk.js.map",
+    "static/js/3.28a151f2.chunk.js": "/zeldapedia/static/js/3.28a151f2.chunk.js",
+    "static/js/3.28a151f2.chunk.js.map": "/zeldapedia/static/js/3.28a151f2.chunk.js.map",
     "index.html": "/zeldapedia/index.html",
-    "static/css/main.96f7634e.chunk.css.map": "/zeldapedia/static/css/main.96f7634e.chunk.css.map",
-    "static/js/2.597429ea.chunk.js.LICENSE.txt": "/zeldapedia/static/js/2.597429ea.chunk.js.LICENSE.txt",
+    "static/css/main.77582974.chunk.css.map": "/zeldapedia/static/css/main.77582974.chunk.css.map",
+    "static/js/2.9f1629fe.chunk.js.LICENSE.txt": "/zeldapedia/static/js/2.9f1629fe.chunk.js.LICENSE.txt",
     "static/media/index.css": "/zeldapedia/static/media/triforce.d9304d4b.ttf",
+    "static/media/heroes-section.scss": "/zeldapedia/static/media/zelda.d1ba126a.png",
     "static/media/link-home.e48afdd7.png": "/zeldapedia/static/media/link-home.e48afdd7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.489f0f55.js",
-    "static/js/2.597429ea.chunk.js",
-    "static/css/main.96f7634e.chunk.css",
-    "static/js/main.d6720678.chunk.js"
+    "static/js/runtime-main.fb4e9581.js",
+    "static/js/2.9f1629fe.chunk.js",
+    "static/css/main.77582974.chunk.css",
+    "static/js/main.05b85fdb.chunk.js"
   ]
 }
